@@ -1,5 +1,5 @@
 # Game Time
 
-![Game Time screenshot](https://imgur.com/a/O2hDa)
+![Game Time screenshot](https://i.imgur.com/sGHj3XZ.jpg)
 
 https://waffle.io/davidjryan/game-time
